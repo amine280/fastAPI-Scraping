@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+facebook-scraper
+sqlite3
+pytest
